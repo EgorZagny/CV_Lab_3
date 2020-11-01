@@ -14,7 +14,7 @@ mean difference between original and genereted frames: 19.7584
 
 
 
-ResNet
+ReNet
 
 detected car:		0.8333333333333334
 detected stand:		0.8
