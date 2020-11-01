@@ -10,9 +10,22 @@ time of decoding: 1 minutes 47 seconds
 mean difference between original and genereted frames: 19.7584
 
 
+macroblock of size 16 pixels
+search area of 7 pixels
+
+time of encoding: 5 minutes 43 seconds
+time of decoding: 0 minutes 39 seconds
+mean difference between original and genereted frames: 21.133
 
 
+macroblock of size 16 pixels
+search area of 3 pixels
 
+time of encoding: 3 minutes 56 seconds
+time of decoding: 0 minutes 39 seconds
+mean difference between original and genereted frames: 20.9472
+
+_______________________________________________________________________
 
 ReNet
 
