@@ -1,0 +1,29 @@
+Block-matching algorithm (Two Dimensional Logarithmic Search)
+
+ParkingVideo
+
+macroblock of size 8 pixels
+search area of 7 pixels
+
+time of encoding: 20 minutes 15 seconds
+time of decoding: 1 minutes 47 seconds
+mean difference between original and genereted frames: 19.7584
+
+
+
+
+
+
+ResNet
+
+detected car:		0.8333333333333334
+detected stand:		0.8
+detected dosimeter:	0.5882352941176471
+nothing detected:	1.0
+
+false positive car:	0.047619047619047616
+false positive stand:	0.0
+false positive dosimeter:0.09090909090909091
+false negative:		0.52
+
+mean time:		0.008813564442406016s
