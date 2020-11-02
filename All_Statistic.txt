@@ -5,33 +5,33 @@ ParkingVideo
 macroblock of size 8 pixels
 search area of 7 pixels
 
-time of encoding: 20 minutes 15 seconds
+time of encoding: 17 minutes 3 seconds
 time of decoding: 1 minutes 47 seconds
-mean difference between original and genereted frames: 19.7584
+mean difference between original and genereted frames: 33.351
 ...........................
 
 macroblock of size 16 pixels
 search area of 7 pixels
 
-time of encoding: 5 minutes 43 seconds
+time of encoding: 5 minutes 5 seconds
 time of decoding: 0 minutes 39 seconds
-mean difference between original and genereted frames: 21.133
+mean difference between original and genereted frames: 33.037
 .............................
 
 macroblock of size 16 pixels
 search area of 3 pixels
 
-time of encoding: 3 minutes 56 seconds
+time of encoding: 3 minutes 37 seconds
 time of decoding: 0 minutes 39 seconds
-mean difference between original and genereted frames: 20.9472
+mean difference between original and genereted frames: 31.251
 .............................
 
 macroblock of size 8 pixels
 search area of 3 pixels
 
-time of encoding: 12 minutes 2 seconds
+time of encoding: 11 minutes 35 seconds
 time of decoding: 1 minutes 33 seconds
-mean difference between original and genereted frames: 20.9785
+mean difference between original and genereted frames: 32.492
 
 _______________________________________________________________________
 
