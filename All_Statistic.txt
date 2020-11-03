@@ -6,7 +6,7 @@ macroblock of size 8 pixels
 search area of 7 pixels
 
 time of encoding: 17 minutes 3 seconds
-time of decoding: 1 minutes 47 seconds
+time of decoding: 1 minutes 33 seconds
 mean difference between original and genereted frames: 33.351
 ...........................
 
@@ -37,17 +37,22 @@ _______________________________________________________________________
 
 ResNet
 
-detected car:		0.83
-detected stand:		0.8
-detected dosimeter:	0.59
-nothing detected:	1.0
+TPR car:	0.8333333333333334
+TPR stand:	0.8
+TPR dosimeter:	0.5882352941176471
+TPR nothing:	1.0
 
-false positive car:	0.05
-false positive stand:	0.0
-false positive dosimeter:0.09
-false negative:		0.52
+FNR car:	0.16666666666666663
+FNR stand:	0.19999999999999996
+FNR dosimeter:	0.4117647058823529
+FNR nothing:	0.0
 
-mean time:		0.059s
+FPR car:	0.02040816326530612
+FPR stand:	0.0
+FPR dosimeter:	0.017857142857142856
+FPR nothing:	0.21311475409836064
+
+mean time:	0.0445729085843857s
 .............................
 
 SURF
